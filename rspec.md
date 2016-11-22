@@ -1,4 +1,9 @@
-## 
+## URL
+  * https://leanpub.com/everydayrailsrspec-jp/read
+  * http://qiita.com/luckypool/items/e3662170033347510c3c
+  * http://qiita.com/pugiemonn/items/11a2bc8403e5947a8f13
+
+## メモ
   * describeの後はクラス名
   * pendingエラーはテスト対象をrequireしなければ発生
   * 最小単位は`describe`,`it`,`expect().to`
